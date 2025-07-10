@@ -78,6 +78,9 @@ The-code-related-to-generating-CMCDS-datasets/
 
 ## License
 
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute the code, as long as proper credit is given.
 
+See the [LICENSE](./LICENSE) file for full license text.
 
 
