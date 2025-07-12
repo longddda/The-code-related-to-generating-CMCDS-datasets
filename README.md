@@ -4,6 +4,8 @@
 
 This repository contains a complete pipeline for generating and analyzing ECD (Electronic Circular Dichroism) spectra of molecules using Gaussian input and output files.
 
+![Workflow Diagram](./workflow.png)
+
 The workflow includes:
 - Converting SMILES strings to `.mol` structure files
 - Generating `.gjf` input files for Gaussian
