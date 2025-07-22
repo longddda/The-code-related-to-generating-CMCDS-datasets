@@ -1,4 +1,4 @@
-# CMCDS dataset: Comprises computed ECD spectral data for over 10,000 chiral organic small molecules
+# Computed ECD spectral data for over 10,000 chiral organic small molecules
 
 [![DOI](https://zenodo.org/badge/960971533.svg)](https://doi.org/10.5281/zenodo.15867204)
 
